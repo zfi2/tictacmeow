@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --primary: #6366F1;
+  --primary-hover: #4F46E5;
+  --secondary: #EC4899;
+  --light-bg: #F9FAFB;
+  --dark-text: #1F2937;
+  --light-text: #F9FAFB;
+  --border-radius: 12px;
+  --cell-bg: #EEF2FF;
+  --cell-hover: #C7D2FE;
+  --x-color: #EC4899;
+  --o-color: #3B82F6;
+  --winner-bg: #A7F3D0;
+}
+
+body {
+  font-family: 'Inter', 'Segoe UI', 'Arial', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: var(--light-bg);
+  background-image: linear-gradient(135deg, #f5f7fa 0%, #e4efe9 100%);
+  color: var(--dark-text);
+  line-height: 1.5;
+} 
+
+p {
+  font-size: 1.2rem;
+}
