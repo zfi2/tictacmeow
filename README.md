@@ -1,6 +1,9 @@
 # TicTacMeow
 
 tictacmeow. built with a rust backend because and a react frontend because why not!
+
+![Peek 2025-05-05 04-40](https://github.com/user-attachments/assets/dfc04148-7de4-46e8-ac00-d0a07f6ee0c8)
+
 ## whats inside!!!
 
 ### backend stuff
