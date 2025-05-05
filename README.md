@@ -1,23 +1,23 @@
 # TicTacMeow
 
-tictacmeow. built with a Rust backend because and a React frontend because why not!
+tictacmeow. built with a rust backend because and a react frontend because why not!
 ## whats inside!!!
 
 ### backend stuff
-- Rust core with game logic and state management
-- Axum for API endpoints (way less boilerplate than Actix)
-- Tokio for async because blocking is for chumps
-- Serde for JSON wrangling
+- rust core with game logic and state management
+- axum for API endpoints (way less boilerplate than Actix)
+- tokio for async because blocking is for chumps
+- serde for JSON meowing
 
 ### frontend stuff
-- React (duh)
-- Emotion for CSS
-- Framer Motion for animations
+- react (duh)
+- emotion for CSS
+- framer motion for animations
 
 ## get it running!!!
 ### you'll need
-- Rust (latest stable or i cant promise anything)
-- Node (v14+ should work fine)
+- rust (latest stable or i cant promise anything)
+- node
 - npm (npMEOW)
 
 ### fire up the backend!!!
